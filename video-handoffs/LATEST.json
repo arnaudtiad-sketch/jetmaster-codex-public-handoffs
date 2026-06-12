@@ -1,0 +1,12 @@
+{
+  "latest_handoff": "hermes-to-codex/20260612T174011Z-can-you-add-or-change-passengers-after-booking-a-private-jet",
+  "manifest_path": "hermes-to-codex/20260612T174011Z-can-you-add-or-change-passengers-after-booking-a-private-jet/manifest.json",
+  "title": "Can You Add or Change Passengers After Booking a Private Jet?",
+  "created_at_utc": "20260612T174011Z",
+  "sha256": "d7ed1b21d53a194953ada76ca0dc282579dafb4639c9beeee812f106bc271530",
+  "github_release_tag": "20260612-passenger-change-long-youtube",
+  "github_release_asset_name": "Can.You.Add.or.Change.Passengers.After.Booking.a.Private.Jet_1080p.mp4",
+  "github_release_asset_url": "https://github.com/arnaudtiad-sketch/jetmaster-codex-public-handoffs/releases/download/20260612-passenger-change-long-youtube/Can.You.Add.or.Change.Passengers.After.Booking.a.Private.Jet_1080p.mp4",
+  "github_release_url": "https://github.com/arnaudtiad-sketch/jetmaster-codex-public-handoffs/releases/tag/20260612-passenger-change-long-youtube",
+  "instructions": "Read this file first, then open manifest.json, verify SHA256, then download the exact MP4 from github_release_asset_url."
+}

@@ -1,0 +1,56 @@
+{
+  "handoff_type": "hermes_to_codex_video_asset",
+  "created_at_utc": "20260612T174011Z",
+  "title": "Can You Add or Change Passengers After Booking a Private Jet?",
+  "slug": "can-you-add-or-change-passengers-after-booking-a-private-jet",
+  "heygen_delivery": {
+    "source": "HeyGen export",
+    "local_file": "/root/Downloads/Can You Add or Change Passengers After Booking a Private Jet_1080p.mp4",
+    "downloaded_and_verified_by": "Hermes"
+  },
+  "asset": {
+    "filename": "Can You Add or Change Passengers After Booking a Private Jet_1080p.mp4",
+    "size_bytes": 213592969,
+    "sha256": "d7ed1b21d53a194953ada76ca0dc282579dafb4639c9beeee812f106bc271530",
+    "duration_seconds": 729.922,
+    "ffprobe": {
+      "programs": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2"
+      }
+    },
+    "github_release": {
+      "tag": "20260612-passenger-change-long-youtube",
+      "asset_name": "Can.You.Add.or.Change.Passengers.After.Booking.a.Private.Jet_1080p.mp4",
+      "browser_download_url": "https://github.com/arnaudtiad-sketch/jetmaster-codex-public-handoffs/releases/download/20260612-passenger-change-long-youtube/Can.You.Add.or.Change.Passengers.After.Booking.a.Private.Jet_1080p.mp4",
+      "release_url": "https://github.com/arnaudtiad-sketch/jetmaster-codex-public-handoffs/releases/tag/20260612-passenger-change-long-youtube"
+    }
+  },
+  "codex_start_here": {
+    "preferred_pointer": "video-handoffs/hermes-to-codex/LATEST.json",
+    "direct_release_url": "https://github.com/arnaudtiad-sketch/jetmaster-codex-public-handoffs/releases/download/20260612-passenger-change-long-youtube/Can.You.Add.or.Change.Passengers.After.Booking.a.Private.Jet_1080p.mp4",
+    "verify_sha256_first": "d7ed1b21d53a194953ada76ca0dc282579dafb4639c9beeee812f106bc271530"
+  },
+  "task_for_codex_app": {
+    "source_of_truth": "Use the exact MP4 from the GitHub release asset URL recorded here.",
+    "notes": [
+      "Codex App runs on the local machine, so use GitHub paths/URLs only.",
+      "Read LATEST.json first, then manifest.json, then fetch the release asset.",
+      "Verify SHA256 before using the file in any ending/finalization job."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "latest_handoff": "video-handoffs/hermes-to-codex/20260612T174011Z-can-you-add-or-change-passengers-after-booking-a-private-jet",
+  "manifest_path": "video-handoffs/hermes-to-codex/20260612T174011Z-can-you-add-or-change-passengers-after-booking-a-private-jet/manifest.json",
+  "handoff_md_path": "video-handoffs/hermes-to-codex/20260612T174011Z-can-you-add-or-change-passengers-after-booking-a-private-jet/CODEX_HANDOFF.md",
+  "created_utc": "20260612T174011Z",
+  "title": "Can You Add or Change Passengers After Booking a Private Jet?",
+  "slug": "can-you-add-or-change-passengers-after-booking-a-private-jet",
+  "transport": "github_release_asset",
+  "sha256": "d7ed1b21d53a194953ada76ca0dc282579dafb4639c9beeee812f106bc271530",
+  "size_bytes": 213592969,
+  "release_asset": {
+    "tag": "20260612-passenger-change-long-youtube",
+    "label": "Can You Add or Change Passengers After Booking a Private Jet? (can-you-add-or-change-passengers-after-booking-a-private-jet)",
+    "asset_name": "Can.You.Add.or.Change.Passengers.After.Booking.a.Private.Jet_1080p.mp4",
+    "repo": "arnaudtiad-sketch/jetmaster-codex-public-handoffs",
+    "download_url": "https://github.com/arnaudtiad-sketch/jetmaster-codex-public-handoffs/releases/download/20260612-passenger-change-long-youtube/Can.You.Add.or.Change.Passengers.After.Booking.a.Private.Jet_1080p.mp4"
+  },
+  "expected_next_actor": "codex",
+  "codex_status": "ready_for_pull"
+}
